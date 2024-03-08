@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me - email me @sumitjaidka786@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Find out after contact
 
 <!---
 nurturegrit/nurturegrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
