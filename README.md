@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nurturegrit
 - 👀 I’m interested in Machine Learning, Data Science and Blockchain
-- 🌱 I’m currently learning Python, Statistics, and Data Science
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 🌱 I’m currently learning Probability, Statistics, and Data Science
+- 💞️ I’m looking to collaborate on Machine Learning and Data Science Projects
 - 📫 How to reach me - email me @sumitjaidka786@gmail.com
 - 😄 Pronouns: He/him
 
