@@ -1,3 +1,7 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=nurturegrit)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 - 👋 Hi, I’m @nurturegrit
 - 👀 I’m interested in Machine Learning, Data Science and Blockchain
 - 🌱 I’m currently learning Probability, Statistics, and Data Science
