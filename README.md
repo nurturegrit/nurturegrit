@@ -3,9 +3,9 @@
 
 
 - 👋 Hi, I’m @nurturegrit
-- 👀 I’m interested in Machine Learning and Software Development
-- 🌱 I’m currently learning Design Patterns, and Concurrency
-- 💞️ I’m looking to collaborate on Development and Data Science Projects
+- 👀 I’m interested in System Development and Software Architecture
+- 🌱 I’m currently learning Rust and Concurrency
+- 💞️ I’m looking to collaborate on Software Development, ML, AI and Data Science Projects
 - 📫 How to reach me - email me @sumitjaidka786@gmail.com
 - 😄 Pronouns: He/him
 
