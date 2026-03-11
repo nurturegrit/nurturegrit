@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @nurturegrit
 - 👀 I’m interested in System Development and Software Architecture
 - 🌱 I’m currently learning Rust and Concurrency
-- 💞️ I’m looking to collaborate on Software Development, ML, AI and Data Science Projects
+- 💞️ Lets connect!
 - 📫 How to reach me - email me @sumitjaidka786@gmail.com
 - 😄 Pronouns: He/him
 
